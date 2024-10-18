@@ -1,0 +1,4 @@
+Warning (10268): Verilog HDL information at reg_file.v(35): always construct contains both blocking and non-blocking assignments File: C:/Users/Sumit/Downloads/RISC-V_progress/RISC-V_progress/verilog_codes/reg_file.v Line: 35
+Warning (10273): Verilog HDL warning at imm_extend.v(29): extended using "x" or "z" File: C:/Users/Sumit/Downloads/RISC-V_progress/RISC-V_progress/verilog_codes/imm_extend.v Line: 29
+Warning (10268): Verilog HDL information at alu.v(19): always construct contains both blocking and non-blocking assignments File: C:/Users/Sumit/Downloads/RISC-V_progress/RISC-V_progress/verilog_codes/alu.v Line: 19
+Warning (10268): Verilog HDL information at data_mem.v(94): always construct contains both blocking and non-blocking assignments File: C:/Users/Sumit/Downloads/RISC-V_progress/RISC-V_progress/data_mem.v Line: 94
